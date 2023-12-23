@@ -1,14 +1,19 @@
 {
   "name": "sequelize-config",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "pruebas unitarias",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "rudenciio",
+  "license": "MIT",  
+  "homepage": "https://github.com/RudyCortedano/npm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RudyCortedano/npm"
+  },
   "dependencies": {
     "dotenv": "^16.3.1"
   }
